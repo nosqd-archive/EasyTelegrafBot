@@ -1,0 +1,16 @@
+{
+  "name": "easy-tg-bot",
+  "version": "0.0.1",
+  "description": "Easy Telegram Bot",
+  "main": "./src/index.js",
+  "author": "TheEnderOfficial <enderofficial.dp@yandex.ru>",
+  "license": "MIT",
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  },
+  "dependencies": {},
+  "scripts": {
+    "dev": "nodemon ./src/index.js",
+    "start": "node ./src/index.js"
+  }
+}
